@@ -13,7 +13,7 @@ SF homework
 ### Описание проекта    
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](_)
+:arrow_up:[к оглавлению]([_](https://github.com/VitalyKudashev/sf_data_science?tab=readme-ov-file#оглавление))
 
 
 ### Какой кейс решаем?    
